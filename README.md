@@ -2,6 +2,9 @@
   <img src="https://raw.githubusercontent.com/ilim-cell/ilim-cell/main/ascii.svg" width="72%" alt="ilim-cell"/>
 </p>
 
+> [!WARNING]
+> I'm currently in the process of resigning my commits, starting with webbender. Until then, some commits will be marked as unverified.
+
 <br><br>
 
 <p align="center">
